@@ -4,3 +4,16 @@ x64/
 Project_compiler_x86-64.sln
 
 Project_compiler_x86-64/
+
+compile_function_call.c
+compile_function_call.h
+compile_function_declaration.c
+compile_function_declaration.h
+generate_argument_or_variable.c
+generate_argument_or_variable.h
+generate_function.c
+generate_function.h
+read_var.c
+read_var.h
+search_var.c
+search_var.h
